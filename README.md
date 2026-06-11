@@ -44,7 +44,12 @@ Netflix Movies and TV Shows Dataset
 - USA produced the highest content
 - Content growth increased during recent years
 - Drama was among the top genres
+## Project Outcomes
 
+- Cleaned raw Netflix dataset
+- Performed exploratory data analysis
+- Built visualizations using Matplotlib and Seaborn
+- Generated business insights
 ---
 
 ## Future Improvements
